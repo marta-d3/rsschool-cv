@@ -22,3 +22,14 @@ Basic knowledge HTML, CSS, SQL, JavaScript.
 ```JavaScript
 alert( 'Hello, world!' );
 ```
+
+**Work experience**  
+Since 2012 I have been working as a chief accountant.
+
+**Education**  
+2006-2012 - MESI (Moscow State University of Economics, Statistics and Informatics).  
+Specialty manager-economist. Higher education.  
+2021 - Skilup. Сourse: Basic WEB and SQL for Software Testing.
+
+**English**  
+I studied English only at school. At the moment my level is A2 Elementary.
