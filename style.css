@@ -1,0 +1,43 @@
+html {
+  margin: 0 auto;
+  text-align: center;
+  font-family: Monotype Corsiva;
+}
+
+h1 {
+  text-align: center;
+  color: rebeccapurple;
+  font-size: 50px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.cv__img {
+  width: 15%;
+  height: auto;
+}
+
+h2 {
+  text-align: center;
+  color: indigo;
+  font-size: 30px;
+}
+
+section {
+  text-align: center;
+  margin: 0 auto;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  text-align: center;
+}
+
+li {
+  list-style: circle;
+  font-size: 20px;
+}
